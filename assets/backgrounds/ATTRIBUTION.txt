@@ -1,0 +1,6 @@
+Background: “PCB Board with Chip” by Miguel Á. Padriñán, via Pexels.
+Source: https://www.pexels.com/photo/pcb-board-with-chip-3520679/
+Image file: https://images.pexels.com/photos/3520679/pexels-photo-3520679.jpeg
+License: Pexels License — https://www.pexels.com/license/
+Downloaded for offline use in this project. Pexels permits use in websites and apps;
+attribution is not required by the license but is provided here as a courtesy.

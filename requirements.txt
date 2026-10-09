@@ -1,0 +1,12 @@
+# Resolved with Python 3.14.8 on Windows x64; see README for compatibility notes.
+streamlit==1.65.0
+PyMuPDF==1.28.2
+pdfplumber==0.11.10
+pandas==3.0.6
+sentence-transformers==6.1.0
+chromadb==1.5.9
+pytesseract==0.3.13
+plotly==7.1.0
+Pillow==12.3.0
+torchvision==0.29.1
+python-dotenv==1.2.4

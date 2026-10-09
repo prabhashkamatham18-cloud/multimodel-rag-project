@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.py[cod]
+.env
+.streamlit/secrets.toml
+data/uploads/*
+data/extracted_images/*
+data/previews/*
+data/*.sqlite3
+chroma_db/*
+!data/uploads/.gitkeep
+!data/extracted_images/.gitkeep
+!data/previews/.gitkeep
+!chroma_db/.gitkeep
